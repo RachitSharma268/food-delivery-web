@@ -1,0 +1,90 @@
+body{
+    background-color: rgba(45, 79, 115, 0.8);
+}
+
+.login-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.form-content {
+    display: flex;
+    gap: 20px; 
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-box{
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    border: 2px solid white;
+    margin-top: 6.5rem;
+    box-shadow: 2px 2px 2px 4px rgba(244, 241, 241, 0.71);
+    background-color: transparent;
+    border-radius: 1rem;
+}
+
+.other{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+    height: 14px;
+}
+
+#remember-me{
+    height: 16px;
+    width: 16px;
+    box-shadow: none;
+    gap: 0;
+}
+
+.remember {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0;
+}
+
+.other a{
+    text-decoration: none;
+    color: black;
+}
+
+.login-box h2 {
+    color: whitesmoke;
+}
+
+input {
+    height: 40px;
+    width: 300px;
+    border-radius: 999px;
+    border: 1px solid #ccc;
+    outline: none;
+    font-size: 16px;
+    box-shadow: 2px 2px 2px 4px rgba(244, 241, 241, 0.71);
+}
+
+
+button {
+    height: 40px;
+    width: 300px;
+    border-radius: 999px;
+    border: 1px solid #ccc;
+    text-align: center;
+    background-color: blue;
+    margin: auto;
+    padding: 5px; 
+    cursor: pointer;
+} 
+
+.make-accnt a {
+    text-decoration: none;
+    color: black;
+    margin-left: 3px
+}
