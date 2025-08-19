@@ -4,7 +4,7 @@ A responsive and modern food delivery web page where users can browse menus, exp
 
 ## 🚀 Features
 - 🏠 **Landing Page** with restaurant highlights and featured dishes  
-- 🍽️ **Menu Section** showcasing food categories with images and prices  
+- 🍽️ **Menu Section** showcasing food categories with images and description 
 - 🛒 **Cart System** to add, update, and remove items  
 - 💳 **Checkout Page** with order summary and payment details (dummy integration)  
 - 📱 **Responsive Design** optimized for desktop, tablet, and mobile  
