@@ -71,11 +71,11 @@ body{
 .nav-optn a{
   text-decoration: none;
   color: black;
-  transition:transform 0.3s ease ;
+  transition:color 0.3s ease ;
 }
 
 .nav-bar a:hover{
-  transform: scale(1.1);
+  color: #e63946;
 }
 
 .hamburger-optn{
